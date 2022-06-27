@@ -2,9 +2,8 @@
 User Story
 
 As a digital marketing agency,
-I want a codebase that follows accessibility standards
-So that our own site is optimized for search engines.
-
+You will have a codebase that has attributes that help to make web content
+more accessible to people with disabilities.
 
 Acceptance Criteria
 * When viewing the source code, I will find semantic HTML elements.
